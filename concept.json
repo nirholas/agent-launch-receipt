@@ -1,0 +1,11 @@
+{
+  "slug": "agent-launch-receipt",
+  "name": "Agent Launch Receipt",
+  "kind": "agent",
+  "description": "Create a human-readable receipt for agent deployment, authorities, and endpoints.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
