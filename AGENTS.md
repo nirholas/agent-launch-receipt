@@ -8,7 +8,7 @@ Create a human-readable receipt for agent deployment, authorities, and endpoints
 
 - Source: https://github.com/nirholas/agent-launch-receipt
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
